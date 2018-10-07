@@ -1,0 +1,30 @@
+body{
+    font-family: 'Calibri', serif;
+}
+table,th,td{
+    border-collapse: collapse;
+    border: 1px solid #999;
+	
+}
+caption{
+	font-weight: bold;
+}
+.center{
+    text-align: center;
+    color: blue;
+}
+.cor{
+    background-color: lightgreen;
+    
+
+}
+.azul{
+    background-color:#9cfcfc;
+}
+.color{
+    color: blue;
+}
+#celula{
+    border-top-style:hidden;
+    border-left-style:hidden;
+}
